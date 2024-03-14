@@ -1,4 +1,4 @@
-package com.example.mobilegamestudent.main;
+package com.example.mobilegamestudent.main.main;
 
 public class GameLoop implements Runnable{
 

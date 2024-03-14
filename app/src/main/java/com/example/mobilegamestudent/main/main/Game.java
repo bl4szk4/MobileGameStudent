@@ -1,4 +1,4 @@
-package com.example.mobilegamestudent.main;
+package com.example.mobilegamestudent.main.main;
 
 import android.graphics.Canvas;
 import android.graphics.Color;
@@ -17,6 +17,7 @@ public class Game {
     }
 
     public void update(double delta) {
+
     }
 
     public void render() {
