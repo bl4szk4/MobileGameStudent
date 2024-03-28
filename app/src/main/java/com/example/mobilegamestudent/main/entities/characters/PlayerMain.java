@@ -15,7 +15,9 @@ public class PlayerMain extends Character{
             updateAnimation();
     }
 
-    public void setLastCameValY(float lastCamValY){
+    public void setLastCameraValY(float lastCamValY){
         this.lastCamValY = lastCamValY;
     }
+
+    //TODO: add update player move
 }
